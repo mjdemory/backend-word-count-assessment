@@ -25,7 +25,7 @@ should return a dictionary with words as keys, and their counts as values.
 
 # Your name, plus anyone who helped you with this assignment
 # Give credit where credit is due.
-__author__ = "Michael DeMory and helped by Zac Gerber and the wordcount walkthrough presented by Doug"
+__author__ = "Michael DeMory, helped by Zac Gerber and the wordcount walkthrough presented by Doug"
 
 import sys
 
